@@ -1,0 +1,24 @@
+querying with Lucene (KeywordAnalyzer).
+	LuceneLabelMeSearcher.search begin.
+1427 results.
+	LuceneLabelMeSearcher.writeQueryLog begin.
+writing file ./lucene-queryresults-logs/query-1246267631343.log
+	LuceneLabelMeSearcher.writeQueryLog end.
+	LuceneLabelMeSearcher.search end.
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.
+Error: Could not load mediaLib accelerator wrapper classes. Continuing in pure Java mode.
+Occurs in: com.sun.media.jai.mlib.MediaLibAccessor
+com.sun.media.jai.mlib.MediaLibLoadException
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.
+	LuceneLabelMeSearcher.getResults begin.
+	LuceneLabelMeSearcher.getResults end.

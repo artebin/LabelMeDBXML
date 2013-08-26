@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/db.jar"/>
+	<classpathentry kind="lib" path="lib/dbxml.jar"/>
+	<classpathentry kind="lib" path="lib/Galatee-0.3.jar"/>
+	<classpathentry kind="lib" path="lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/mlibwrapper_jai.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-rasterizer.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-slideshow.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-squiggle.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-svgpp.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik-ttf2svg.jar"/>
+	<classpathentry kind="lib" path="lib/batik-1.7/batik.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
